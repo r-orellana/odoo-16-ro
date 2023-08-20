@@ -31,6 +31,7 @@
     'depends': ['base'],
     'data': [
               'views/views.xml',
+              'security/ir.model.access.csv',
             ],
     'images': ['static/description/banner.jpg'],
 }
